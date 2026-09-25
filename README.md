@@ -105,7 +105,7 @@ Free to use, and always will be. If this helped you out, you can buy me a coffee
 
 ## License
 
-Copyright (c) 2026 Jared Rhodenizer.
+Copyright (c) 2026 Captain Pro.
 
 Licensed under the GNU Affero General Public License, version 3 or later (AGPL-3.0-or-later). **Use it in your business, commercially, for free.** Run it, change it, build your workflow on top of it.
 

@@ -93,7 +93,7 @@ barehands improves continuously, and gesture fixes ship often. To update on macO
 A board is better with an agent behind it. Give it a voice and you can talk while you move things around, and a memory vault turns the notes orb into your agent's actual brain instead of a folder of static notes.
 
 - **The whole stack, one command.** [fullstack-agent](https://github.com/jaredrhod/fullstack-agent) installs the memory, the voice, the face, and the hands, and wires them together for you. Pick one and run it.
-- **The videos.** Free series on all of it: https://youtube.com/@jaredrhod
+- **The videos.** [My YouTube](https://www.youtube.com/@homer-238)
 - **The Discord.** Thousands of builders, and the fastest place to get unstuck: https://discord.gg/YSdsqMv3V8
 - **Everything else,** free and open: https://jaredrhod.com
 

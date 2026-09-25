@@ -15,7 +15,7 @@ And it's a body waiting for a brain: wire in your AI and the on-screen ring beco
 ## Run it (nothing needed)
 
 ```
-git clone https://github.com/jaredrhod/barehands
+git clone https://github.com/Zephplays134/barehands
 cd barehands
 python3 server.py
 ```

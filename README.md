@@ -8,6 +8,10 @@ Move things on your screen with your bare hands. barehands turns your webcam int
 
 And it's a body waiting for a brain: wire in your AI and the on-screen ring becomes its face, while two small scripts give it hands and eyes on your board. Free to use, change, and build on, including commercially.
 
+## Repository
+
+This project is maintained in the GitHub repository: [@Zephplays134/barehands](https://github.com/Zephplays134/barehands)
+
 ## What's new in 6.7.0
 
 This update keeps the same core experience but makes it feel more alive and faster:
@@ -17,6 +21,7 @@ This update keeps the same core experience but makes it feel more alive and fast
 - More explicit version metadata for installs and updates
 - Stronger compatibility with custom setups and AI-driven workflows
 - Expanded config metadata for future feature flags
+- Preserved compatibility with the existing barehands experience while adding upgrades
 
 **Watch it in action:**
 

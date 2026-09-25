@@ -14,14 +14,23 @@ This project is maintained in the GitHub repository: [@Zephplays134/barehands](h
 
 ## What's new in 6.7.0
 
-This update keeps the same core experience but makes it feel more alive and faster:
+This update keeps the same core experience but makes it feel more alive, smoother, and more responsive:
 
-- Faster ring polling and live state refreshes
-- Smoother board responsiveness and lighter state handling
-- More explicit version metadata for installs and updates
-- Stronger compatibility with custom setups and AI-driven workflows
-- Expanded config metadata for future feature flags
-- Preserved compatibility with the existing barehands experience while adding upgrades
+- Faster ring polling and live assistant state refreshes
+- Smoother board interactions and lighter state handling
+- More reliable version metadata for installs and updates
+- Better compatibility with custom configs and AI-driven workflows
+- Expanded config metadata for future feature flags and upgrades
+- Preserved compatibility with the original barehands experience while adding modern improvements
+
+## Updated features and upgrades
+
+- Faster live board responsiveness with cleaner state sync
+- Improved runtime metadata for version tracking and feature detection
+- More robust config handling for custom orbs and setups
+- Better compatibility with AI integrations and live assistant feedback
+- Same glass-card workflow, gestures, and board feel — now more polished and efficient
+- Updated project branding and repository references for the current fork
 
 **Watch it in action:**
 
